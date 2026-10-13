@@ -1,0 +1,3 @@
+# Search and AI search crawlers are welcome (citations need access).
+User-agent: *
+Allow: /
